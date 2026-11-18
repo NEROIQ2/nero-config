@@ -1,0 +1,6 @@
+{
+  "syncUrl": "https://nero-sync-server-production.up.railway.app",
+  "servers": [
+    { "name": "Minemen Club (Practice)", "ip": "eu.minemen.club" }
+  ]
+}
